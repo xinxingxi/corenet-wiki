@@ -1,2 +1,3 @@
-# card
-a boon or a bane
+# 5G CoreNetwork Wiki
+====================
+请大家把手头的相关资料放置在对应位置-目前已经更改为wiki模式A.A
