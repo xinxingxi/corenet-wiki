@@ -17,6 +17,6 @@
       - [smf](文档/网元/smf/menu.md)
       - [upf](文档/网元/upf/menu.md)
       - [amf](文档/amf/menu.md)
-  - [论文](文档)
-  - [代码](文档)
+  - [论文](论文)
+  - [代码](代码)
   - [Collaborators](Collaborators)
