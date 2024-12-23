@@ -1,7 +1,8 @@
 # 5G CoreNetwork Wiki  
 ====================  
 请大家把手头的相关资料放置在对应位置并更新目录树A.A  
--目前已经更改为wiki模式A.A  
+-大家在[Collaborators](Collaborators)目录下建立自己的个人文件夹，保存自己的资料然后用超链引用回文档正文中A.A  
+
 
 [目录](README.md)
   - [文档](文档)
